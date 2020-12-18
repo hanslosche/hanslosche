@@ -1,5 +1,6 @@
 ### Hi there, my name is Hans!
-I'm currently working, learning and growing my skillset in machine learning, 3D-computer-grahics, data structures, algorithms and a bit of competitive coding,.
+I'm currently working, learning and growing my skillset in machine learning,
+3D-computer-grahics, data structures, algorithms and a bit of competitive coding,.
 
 <!--
 **hanslosche/hanslosche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
