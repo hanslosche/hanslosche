@@ -26,5 +26,5 @@ Here are some ideas to get you started:
 
 ### Technologies
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)
-![TCP/IP](https://img.shields.io/badge/-TCP%2FIP-000?&logo=Cisco)
+
 
