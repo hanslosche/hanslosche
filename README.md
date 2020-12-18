@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 [![Python](https://img.shields.io/badge/-Python-000?&logo=python)](https://github.com/adamalston?tab=repositories&q=&type=&language=python)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)](https://github.com/adamalston?tab=repositories&q=&type=&language=javascript)
 
-![1](https://github-readme-stats.vercel.app/api/top-langs/?username=Naereen&theme=blue-green)
+![1](https://github-readme-stats.vercel.app/api/top-langs/?username=hanslosche&theme=blue-green)
 ### Technologies
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)
 
