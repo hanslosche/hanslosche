@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 </br>
 
 
-![1](https://github-readme-stats.vercel.app/api/top-langs/?username=hanslosche&theme=blue-green)
+- ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=hanslosche&theme=blue-green)
 
 ### Technologies
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)
