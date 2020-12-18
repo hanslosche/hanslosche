@@ -28,5 +28,4 @@ Here are some ideas to get you started:
 ### Technologies
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)
 ![TCP/IP](https://img.shields.io/badge/-TCP%2FIP-000?&logo=Cisco)
-[![Hackage](https://img.shields.io/hackage/v/OpenGL.svg)](https://hackage.haskell.org/package/OpenGL) [![Build Status](https://travis-ci.org/haskell-opengl/OpenGL.png)](https://travis-ci.org/haskell-opengl/OpenGL)
 
