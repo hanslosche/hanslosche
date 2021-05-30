@@ -2,6 +2,8 @@
 I'm currently learning and growing my skillset in machine learning, </br>
 3D-computer-grahics, data structures, algorithms and a bit of competitive coding.
 
+
+![image](https://i.ibb.co/PwWFrZy/renaissance-man.jpg)
 <!--
 **hanslosche/hanslosche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
