@@ -2,7 +2,7 @@
 I'm currently learning and growing my skillset in machine learning, </br>
 3D-computer-grahics, data structures, algorithms and a bit of competitive coding.
 
-<img src="https://i.ibb.co/PwWFrZy/renaissance-man.jpg" width="300">
+<img src="https://f4.bcbits.com/img/a1604383379_10.jpg" width="300">
 <!--
 **hanslosche/hanslosche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
